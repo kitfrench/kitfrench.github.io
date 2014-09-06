@@ -1,0 +1,175 @@
+/*WORK CSS*/
+
+#content {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	padding-bottom: 21px;
+	overflow: hidden;
+}
+
+.work-filters {
+	margin: 10px 0 0 0;
+	text-align: center;
+}
+
+.work-filters ul {
+	display: inline-block;
+	width: auto;
+	padding: 0;
+	margin: 0 0 20px 0;
+}
+
+.work-filters li {
+	float: left;
+	margin-right: 30px;
+}
+
+
+.work-filters li a {
+	color: #ABADB0;
+	text-decoration: none;
+	font-size: 16px;
+}
+
+.work-filters li a:hover, .work-filters li a.current {
+	color: #56D16D;
+}
+
+
+#project_thumbs {
+	display: none;
+	margin-bottom: 10px;
+	position: relative;
+}
+
+.project-header h1 {
+	font-size: 14px;
+	margin-top: 0px;
+}
+
+.project_thumbs_row {
+	text-align: justify;
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+.project_thumbs_row:after {
+	content: '';
+	width: 100%;
+	display: inline-block;
+	font-size: 0;
+	line-height: 0
+}
+
+.project_thumb {
+	float: left;
+	width: 240px;
+	height: auto;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+.project_thumb a {
+	display: block;
+	text-decoration: none;
+	width: 100%;
+	height: 100%;
+}
+.project_thumb a:hover {
+	text-decoration: none;
+}
+
+.project_thumb_overlay {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 99;
+	background: #56D16D;
+	text-align: center;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: none;
+	cursor: pointer;
+}
+
+.project_thumb_overlay_container {
+	display: table;
+	height: 100%;
+	width: 100%;
+}
+
+.project_thumb_overlay_container h2 {
+	color: #ffffff;
+	/*line-height: 150px;*/
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	font-size: 16px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.project_thumb.last {
+	margin-right: 0px;
+}
+
+.project_thumb img {
+	width: 100%;
+	vertical-align: middle;
+}
+
+
+.isotope,
+.isotope .isotope-item {*/
+  /* change duration value to whatever you like */
+/*  -webkit-transition-duration: 0.8s;
+     -moz-transition-duration: 0.8s;
+      -ms-transition-duration: 0.8s;
+       -o-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+}*/
+
+./*isotope {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+      -ms-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}*/
+/*
+.isotope .isotope-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+      -ms-transition-property:     -ms-transform, opacity;
+       -o-transition-property:      -o-transform, opacity;
+          transition-property:         transform, opacity;
+}*/
+
+/**** disabling Isotope CSS3 transitions ****/
+
+/*.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+  -webkit-transition-duration: 0s;
+     -moz-transition-duration: 0s;
+      -ms-transition-duration: 0s;
+       -o-transition-duration: 0s;
+          transition-duration: 0s;
+}*/
+
+/*Sample of the data html for isotrope*/
+
+ /* <div class="project_thumb illustration design forsale isotope-item" style="position: absolute; left: 0px; top: 0px; transform: translate3d(250px, 1425px, 0px);">
+      <a href="work/a-guide-to-old-la">
+        <img src="http://bravethewoods.com/wp-content/uploads/2014/03/old-la-thumbnail.png">
+        <div class="project_thumb_overlay">
+          <div class="project_thumb_overlay_container">
+            <h2>A Guide to Old LA</h2>
+          </div>
+        </div>
+      </a>*/
+    </div>

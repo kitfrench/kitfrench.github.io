@@ -1,0 +1,114 @@
+@font-face {
+    font-family: 'BentonSans-Black';
+    src: url('fonts/bentonsans-black-webfont.eot');
+    src: url('fonts/bentonsans-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bentonsans-black-webfont.woff') format('woff'),
+         url('fonts/bentonsans-black-webfont.ttf') format('truetype'),
+         url('fonts/bentonsans-black-webfont.svg#BentonSans-Black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'BentonSans-Bold';
+    src: url('fonts/bentonsans-bold-webfont.eot');
+    src: url('fonts/bentonsans-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bentonsans-bold-webfont.woff') format('woff'),
+         url('fonts/bentonsans-bold-webfont.ttf') format('truetype'),
+         url('fonts/bentonsans-bold-webfont.svg#BentonSans-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'BentonSans-Book';
+    src: url('fonts/bentonsans-book-webfont.eot');
+    src: url('fonts/bentonsans-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bentonsans-book-webfont.woff') format('woff'),
+         url('fonts/bentonsans-book-webfont.ttf') format('truetype'),
+         url('fonts/bentonsans-book-webfont.svg#BentonSans-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'BentonSans-Medium';
+    src: url('fonts/bentonsans-medium-webfont.eot');
+    src: url('fonts/bentonsans-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bentonsans-medium-webfont.woff') format('woff'),
+         url('fonts/bentonsans-medium-webfont.ttf') format('truetype'),
+         url('fonts/bentonsans-medium-webfont.svg#BentonSans-Medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'BentonSans-Regular';
+    src: url('fonts/bentonsans-regular-webfont.eot');
+    src: url('fonts/bentonsans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bentonsans-regular-webfont.woff') format('woff'),
+         url('fonts/bentonsans-regular-webfont.ttf') format('truetype'),
+         url('fonts/bentonsans-regular-webfont.svg#BentonSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'BentonSans-Light';
+    src: url('fonts/bentonsans-light-webfont.eot');
+    src: url('fonts/bentonsans-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bentonsans-light-webfont.woff') format('woff'),
+         url('fonts/bentonsans-light-webfont.ttf') format('truetype'),
+         url('fonts/bentonsans-light-webfont.svg#BentonSans-Light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'BentonSans-ExtraLight';
+    src: url('fonts/bentonsans-extralight-webfont.eot');
+    src: url('fonts/bentonsans-extralight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bentonsans-extralight-webfont.woff') format('woff'),
+         url('fonts/bentonsans-extralight-webfont.ttf') format('truetype'),
+         url('fonts/bentonsans-extralight-webfont.svg#BentonSans-ExtraLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'BentonSans-Thin';
+    src: url('fonts/bentonsans-thin-webfont.eot');
+    src: url('fonts/bentonsans-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bentonsans-thin-webfont.woff') format('woff'),
+         url('fonts/bentonsans-thin-webfont.ttf') format('truetype'),
+         url('fonts/bentonsans-thin-webfont.svg#BentonSans-Thin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
